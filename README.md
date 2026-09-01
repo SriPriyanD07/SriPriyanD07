@@ -3,7 +3,7 @@
 # Hi there, I'm Sri Priyan D 👋
 ### 🎓 B.Tech Computer Science & Engineering @ VIT Chennai
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Architect;Smart+India+Hackathon+Finalist+'26;Computer+Vision+%26+Predictive+Systems;Building+Scalable+Modern+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Architect;Computer+Vision+%26+Neural+Networks;Building+Scalable+Modern+Software)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sripriyandandayuthapani">
@@ -27,105 +27,42 @@
 ## 📌 About Me
 
 - 🎓 **Education**: B.Tech in Computer Science and Engineering at **Vellore Institute of Technology (VIT Chennai)**.
-- 🧠 **AI & Deep Learning**: Actively building neural architectures spanning **Convolutional Neural Networks (CNNs)**, **Vision Transformers (ViT)**, and predictive intelligence models.
-- 🛡️ **Defense Tech & Hackathons**: Finalist / Contender in **Smart India Hackathon (SIH 2026)** developing AI-driven Remaining Useful Life (RUL) estimation for critical defense machinery.
-- 💻 **Full-Stack Engineering**: Developing clean, reactive, and responsive full-stack applications with TypeScript, React, Next.js, and Node.js.
+- 🧠 **AI & Deep Learning**: Building neural architectures spanning **Convolutional Neural Networks (CNNs)**, **Vision Transformers (ViT)**, and predictive intelligence models.
+- 🛡️ **Defense Tech & AI**: Engineered predictive maintenance & Remaining Useful Life (RUL) estimation models for military equipment (SIH '26).
+- 💻 **Full-Stack Engineering**: Developing clean, reactive, and responsive applications using TypeScript, React, Next.js, and Node.js.
 - 🎯 **Current Focus**: Scaling AI integration into real-time web workflows, high-throughput APIs, and distributed architectures.
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26">Predictive Maintenance (SIH '26)</a></h3>
-      <p>AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for military defense machinery.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square" alt="AI/ML" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 <a href="https://github.com/SriPriyanD07/rubric">Rubric Evaluation Platform</a></h3>
-      <p>Interactive evaluation and rubric grading platform with responsive UI and streamlined scoring.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/rubric"><b>Code</b></a> • <a href="https://rubric-one.vercel.app"><b>Live App ➔</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚚 <a href="https://github.com/SriPriyanD07/Fleet_AI">Fleet_AI</a></h3>
-      <p>Automated fleet intelligence & logistics management platform featuring route optimization.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Full--Stack-339933?style=flat-square" alt="Full Stack" />
-        <img src="https://img.shields.io/badge/Logistics-007ACC?style=flat-square" alt="Logistics" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/Fleet_AI"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/SriPriyanD07/Movie_AI">Movie_AI</a></h3>
-      <p>Intelligent recommendation and sentiment analysis engine built on machine learning algorithms.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" alt="ML" />
-        <img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square" alt="NLP" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/Movie_AI"><b>Explore Repository ➔</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 <a href="https://github.com/SriPriyanD07/Data_Analysis">Data_Analysis</a></h3>
-      <p>Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/Data_Analysis"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/SriPriyanD07/File_API">File_API</a></h3>
-      <p>High-throughput RESTful backend service engineered for secure file handling & processing.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/File_API"><b>Explore Repository ➔</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/SriPriyanD07/portfolio">Developer Portfolio</a></h3>
-      <p>Personal developer website showcasing projects, research, and technical stack.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/portfolio"><b>Explore Repository ➔</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏛️ <a href="https://github.com/SriPriyanD07/Defy26-website">Defy26 Website</a></h3>
-      <p>Community hackathon & events portal built with modern TypeScript and responsive UI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/Web-2563EB?style=flat-square" alt="Web" />
-      </p>
-      <p><a href="https://github.com/SriPriyanD07/Defy26-website"><b>Explore Repository ➔</b></a></p>
-    </td>
-  </tr>
-</table>
+### 🛡️ [Predictive Maintenance for Military Systems](https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26)
+> AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for military defense machinery.  
+> `Python` • `TypeScript` • `PyTorch` • `Machine Learning`
+
+### 📊 [Rubric Platform](https://github.com/SriPriyanD07/rubric) • [Live App ↗](https://rubric-one.vercel.app)
+> Modern interactive evaluation and rubric scoring platform with responsive UI and streamlined grading.  
+> `TypeScript` • `Next.js` • `Tailwind CSS` • `Vercel`
+
+### 🚚 [Fleet_AI](https://github.com/SriPriyanD07/Fleet_AI)
+> Automated fleet intelligence & logistics management platform featuring route optimization.  
+> `JavaScript` • `Node.js` • `Full-Stack` • `AI Routing`
+
+### 🎬 [Movie_AI](https://github.com/SriPriyanD07/Movie_AI)
+> Intelligent content recommendation and sentiment analysis engine built on machine learning algorithms.  
+> `Python` • `NLP` • `Scikit-Learn` • `Machine Learning`
+
+### 📈 [Data_Analysis](https://github.com/SriPriyanD07/Data_Analysis)
+> Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.  
+> `Python` • `Pandas` • `NumPy` • `Seaborn`
+
+### ⚡ [File_API](https://github.com/SriPriyanD07/File_API)
+> High-throughput RESTful backend service engineered for secure file handling and storage pipelines.  
+> `Node.js` • `Express` • `REST API`
+
+### 🌐 [Developer Portfolio](https://github.com/SriPriyanD07/portfolio)
+> Personal developer website showcasing engineering projects, research, and technical stack.  
+> `TypeScript` • `React` • `Tailwind CSS`
 
 ---
 
@@ -209,21 +146,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=SriPriyanD07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="SriPriyanD07's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SriPriyanD07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=SriPriyanD07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SriPriyanD07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SriPriyanD07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=SriPriyanD07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak Stats" />
+  <br><br>
+  <img src="https://ghchart.rshah.org/38BDF8/SriPriyanD07" alt="SriPriyanD07's Contribution Chart" />
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Sri Priyan D 👋
+# Hi there, I'm Sri Priyan D 
 ### 🎓 B.Tech Computer Science & Engineering @ VIT Chennai
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Architect;Computer+Vision+%26+Neural+Networks;Building+Scalable+Modern+Software)](https://git.io/typing-svg)

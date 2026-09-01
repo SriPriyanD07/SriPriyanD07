@@ -36,33 +36,33 @@
 
 ## 🚀 Featured Projects
 
-### 🛡️ [Predictive Maintenance for Military Systems](https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26)
-> AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for military defense machinery.  
-> `Python` • `TypeScript` • `PyTorch` • `Machine Learning`
+- 🛡️ **[Predictive Maintenance for Military Systems](https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26)**  
+  AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for defense equipment.  
+  *Stack: Python · TypeScript · PyTorch · Machine Learning*
 
-### 📊 [Rubric Platform](https://github.com/SriPriyanD07/rubric) • [Live App ↗](https://rubric-one.vercel.app)
-> Modern interactive evaluation and rubric scoring platform with responsive UI and streamlined grading.  
-> `TypeScript` • `Next.js` • `Tailwind CSS` • `Vercel`
+- 📊 **[Rubric Platform](https://github.com/SriPriyanD07/rubric)** • [**Live App ↗**](https://rubric-one.vercel.app)  
+  Modern interactive evaluation and rubric scoring platform with responsive UI and streamlined grading.  
+  *Stack: TypeScript · Next.js · Tailwind CSS · Vercel*
 
-### 🚚 [Fleet_AI](https://github.com/SriPriyanD07/Fleet_AI)
-> Automated fleet intelligence & logistics management platform featuring route optimization.  
-> `JavaScript` • `Node.js` • `Full-Stack` • `AI Routing`
+- 🚚 **[Fleet_AI](https://github.com/SriPriyanD07/Fleet_AI)**  
+  Automated fleet intelligence & logistics management platform featuring route optimization.  
+  *Stack: JavaScript · Node.js · Full-Stack · AI Routing*
 
-### 🎬 [Movie_AI](https://github.com/SriPriyanD07/Movie_AI)
-> Intelligent content recommendation and sentiment analysis engine built on machine learning algorithms.  
-> `Python` • `NLP` • `Scikit-Learn` • `Machine Learning`
+- 🎬 **[Movie_AI](https://github.com/SriPriyanD07/Movie_AI)**  
+  Intelligent content recommendation and sentiment analysis engine built on machine learning algorithms.  
+  *Stack: Python · NLP · Scikit-Learn · Machine Learning*
 
-### 📈 [Data_Analysis](https://github.com/SriPriyanD07/Data_Analysis)
-> Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.  
-> `Python` • `Pandas` • `NumPy` • `Seaborn`
+- 📈 **[Data_Analysis](https://github.com/SriPriyanD07/Data_Analysis)**  
+  Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.  
+  *Stack: Python · Pandas · NumPy · Seaborn*
 
-### ⚡ [File_API](https://github.com/SriPriyanD07/File_API)
-> High-throughput RESTful backend service engineered for secure file handling and storage pipelines.  
-> `Node.js` • `Express` • `REST API`
+- ⚡ **[File_API](https://github.com/SriPriyanD07/File_API)**  
+  High-throughput RESTful backend service engineered for secure file handling and storage pipelines.  
+  *Stack: Node.js · Express · REST API*
 
-### 🌐 [Developer Portfolio](https://github.com/SriPriyanD07/portfolio)
-> Personal developer website showcasing engineering projects, research, and technical stack.  
-> `TypeScript` • `React` • `Tailwind CSS`
+- 🌐 **[Developer Portfolio](https://github.com/SriPriyanD07/portfolio)**  
+  Personal developer website showcasing engineering projects, research, and technical stack.  
+  *Stack: TypeScript · React · Tailwind CSS*
 
 ---
 

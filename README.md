@@ -36,15 +36,96 @@
 
 ## 🚀 Featured Projects
 
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **Predictive Maintenance for Military Systems** | `Python` `TypeScript` `AI/ML` `RUL` | Smart India Hackathon '26 project for real-time telemetry analysis and failure forecasting in defense assets. | [Code](https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26) |
-| 📊 **Rubric** | `TypeScript` `Next.js` `Tailwind` `Vercel` | Modern evaluation & grading platform designed for streamlined assessment rubrics and interactive scoring. | [Code](https://github.com/SriPriyanD07/rubric) • [Live App](https://rubric-one.vercel.app) |
-| 🚚 **Fleet_AI** | `JavaScript` `Full-Stack` `AI Routing` | Automated fleet and logistics intelligence platform featuring route optimization and status telemetry. | [Code](https://github.com/SriPriyanD07/Fleet_AI) |
-| 🎬 **Movie_AI** | `Python` `NLP` `Machine Learning` | Content recommendation and sentiment analysis engine built on machine learning models. | [Code](https://github.com/SriPriyanD07/Movie_AI) |
-| 📈 **Data_Analysis** | `Python` `Pandas` `NumPy` `Seaborn` | Exploratory data analysis, statistical modeling, and data visualization pipelines for multi-domain datasets. | [Code](https://github.com/SriPriyanD07/Data_Analysis) |
-| ⚡ **File_API** | `Node.js` `Express` `REST API` | Lightweight, high-throughput backend API service engineered for file processing and storage pipelines. | [Code](https://github.com/SriPriyanD07/File_API) |
-| 🌐 **Developer Portfolio** | `TypeScript` `React` `CSS3` | Personal developer portfolio highlighting software engineering projects, research, and technical stack. | [Code](https://github.com/SriPriyanD07/portfolio) |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26">Predictive Maintenance (SIH '26)</a></h3>
+      <p>AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for military defense machinery.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square" alt="AI/ML" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 <a href="https://github.com/SriPriyanD07/rubric">Rubric Evaluation Platform</a></h3>
+      <p>Interactive evaluation and rubric grading platform with responsive UI and streamlined scoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/rubric"><b>Code</b></a> • <a href="https://rubric-one.vercel.app"><b>Live App ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 <a href="https://github.com/SriPriyanD07/Fleet_AI">Fleet_AI</a></h3>
+      <p>Automated fleet intelligence & logistics management platform featuring route optimization.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Full--Stack-339933?style=flat-square" alt="Full Stack" />
+        <img src="https://img.shields.io/badge/Logistics-007ACC?style=flat-square" alt="Logistics" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/Fleet_AI"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/SriPriyanD07/Movie_AI">Movie_AI</a></h3>
+      <p>Intelligent recommendation and sentiment analysis engine built on machine learning algorithms.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/ML-F7931E?style=flat-square" alt="ML" />
+        <img src="https://img.shields.io/badge/NLP-5C3EE8?style=flat-square" alt="NLP" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/Movie_AI"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 <a href="https://github.com/SriPriyanD07/Data_Analysis">Data_Analysis</a></h3>
+      <p>Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/Data_Analysis"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/SriPriyanD07/File_API">File_API</a></h3>
+      <p>High-throughput RESTful backend service engineered for secure file handling & processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/REST_API-009688?style=flat-square" alt="REST API" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/File_API"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/SriPriyanD07/portfolio">Developer Portfolio</a></h3>
+      <p>Personal developer website showcasing projects, research, and technical stack.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/portfolio"><b>Explore Repository ➔</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏛️ <a href="https://github.com/SriPriyanD07/Defy26-website">Defy26 Website</a></h3>
+      <p>Community hackathon & events portal built with modern TypeScript and responsive UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Web-2563EB?style=flat-square" alt="Web" />
+      </p>
+      <p><a href="https://github.com/SriPriyanD07/Defy26-website"><b>Explore Repository ➔</b></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 

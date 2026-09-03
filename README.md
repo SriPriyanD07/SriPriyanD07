@@ -1,22 +1,25 @@
 <div align="center">
 
 # Hi there, I'm Sri Priyan D 
-### 🎓 B.Tech Computer Science & Engineering @ VIT Chennai
+### 🎓 Computer Science & Engineering @ VIT Chennai
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Deep+Learning+Enthusiast;Full-Stack+Web+Architect;Computer+Vision+%26+Neural+Networks;Building+Scalable+Modern+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%26+Information+Retrieval+Systems;Full-Stack+Software+Engineering;Evidence-Grounded+AI+Pipelines;Building+Reliable+Modern+Software)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sripriyandandayuthapani">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SriPriyanD07">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://sripriyand-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/SriPriyanD07/jurislens">
+    <img src="https://img.shields.io/badge/JurisLens-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="JurisLens" />
   </a>
   <a href="https://rubric-one.vercel.app">
-    <img src="https://img.shields.io/badge/Rubric_App-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Rubric" />
+    <img src="https://img.shields.io/badge/Rubric_App-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Rubric" />
   </a>
 </p>
 
@@ -26,39 +29,40 @@
 
 ## 📌 About Me
 
-- 🎓 **Education**: B.Tech in Computer Science and Engineering at **Vellore Institute of Technology (VIT Chennai)**.
-- 🧠 **AI & Deep Learning**: Building neural architectures spanning **Convolutional Neural Networks (CNNs)**, **Vision Transformers (ViT)**, and predictive intelligence models.
-- 🛡️ **Defense Tech & AI**: Engineered predictive maintenance & Remaining Useful Life (RUL) estimation models for military equipment (SIH '26).
-- 💻 **Full-Stack Engineering**: Developing clean, reactive, and responsive applications using TypeScript, React, Next.js, and Node.js.
-- 🎯 **Current Focus**: Scaling AI integration into real-time web workflows, high-throughput APIs, and distributed architectures.
+I am a Computer Science student building AI/ML systems, information retrieval pipelines, and full-stack software.
+
+- 🧠 **AI / ML & Information Retrieval**: Building machine learning systems and evidence-grounded search architectures using hybrid retrieval, semantic embeddings, BM25, Reciprocal Rank Fusion (RRF), and Cross-Encoder reranking.
+- ⚙️ **Backend & Systems**: Engineering modular, typed APIs with FastAPI and Node.js with structured validation, efficient data access, and clean service boundaries.
+- 💻 **Full-Stack Development**: Building responsive, interactive web interfaces using TypeScript, React, Next.js, and Three.js.
+- 🔬 **Research-Oriented Engineering**: Developing dependable systems that prioritize verifiable source evidence, cryptographic provenance binding, rigorous evaluation, and safe abstention over unverified generation.
 
 ---
 
 ## 🚀 Featured Projects
 
+- ⚖️ **[JurisLens](https://github.com/SriPriyanD07/jurislens)**  
+  AI-powered judicial precedent discovery and analysis system designed for evidence-grounded legal research rather than generative speculation. Combines Okapi BM25 lexical search with dense vector retrieval via Reciprocal Rank Fusion (RRF), Cross-Encoder candidate reranking, deterministic evidence classification, cryptographic citation provenance binding, and safe abstention when sufficient evidence is unavailable *(does not provide legal advice or predict outcomes)*.  
+  *Stack: Python · FastAPI · PyTorch · Sentence Transformers · CrossEncoder · SQLite · TypeScript · Next.js · React · Three.js*
+
 - 🛡️ **[Predictive Maintenance for Military Systems](https://github.com/SriPriyanD07/Predictive-Maintenance-for-Military-Equipment-SIH26)**  
-  AI-driven Remaining Useful Life (RUL) estimation & telemetry analysis for defense equipment.  
-  *Stack: Python · TypeScript · PyTorch · Machine Learning*
+  AI-driven Remaining Useful Life (RUL) estimation and telemetry analysis system for military defense equipment.  
+  *Stack: Python · TypeScript · PyTorch · Scikit-Learn*
 
 - 📊 **[Rubric Platform](https://github.com/SriPriyanD07/rubric)** • [**Live App ↗**](https://rubric-one.vercel.app)  
-  Modern interactive evaluation and rubric scoring platform with responsive UI and streamlined grading.  
-  *Stack: TypeScript · Next.js · Tailwind CSS · Vercel*
+  Interactive evaluation and rubric scoring platform with responsive UI and streamlined assessment workflows.  
+  *Stack: TypeScript · Next.js · React · Tailwind CSS · Vercel*
 
 - 🚚 **[Fleet_AI](https://github.com/SriPriyanD07/Fleet_AI)**  
-  Automated fleet intelligence & logistics management platform featuring route optimization.  
+  Automated fleet intelligence & logistics management platform featuring route optimization telemetry.  
   *Stack: JavaScript · Node.js · Full-Stack · AI Routing*
 
 - 🎬 **[Movie_AI](https://github.com/SriPriyanD07/Movie_AI)**  
-  Intelligent content recommendation and sentiment analysis engine built on machine learning algorithms.  
-  *Stack: Python · NLP · Scikit-Learn · Machine Learning*
+  Content recommendation and sentiment analysis engine built with machine learning algorithms.  
+  *Stack: Python · Scikit-Learn · NLP*
 
 - 📈 **[Data_Analysis](https://github.com/SriPriyanD07/Data_Analysis)**  
   Exploratory data analysis pipelines, statistical modeling, and data visualization workflows.  
   *Stack: Python · Pandas · NumPy · Seaborn*
-
-- ⚡ **[File_API](https://github.com/SriPriyanD07/File_API)**  
-  High-throughput RESTful backend service engineered for secure file handling and storage pipelines.  
-  *Stack: Node.js · Express · REST API · Render*
 
 - 🌐 **[Developer Portfolio](https://github.com/SriPriyanD07/portfolio)** • [**Live Site ↗**](https://sripriyand-portfolio.vercel.app/)  
   Personal developer website showcasing engineering projects, research, and technical stack.  
@@ -69,33 +73,32 @@
 ## 💥 Tech Stack
 
 <details open>
-<summary><b>💻 Languages & Core</b></summary>
+<summary><b>💻 Languages</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 </details>
 
 <details open>
-<summary><b>🧠 AI / ML & Data Science</b></summary>
+<summary><b>🧠 AI, Machine Learning & NLP</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Sentence_Transformers-FFA500?style=flat-square&logo=huggingface&logoColor=white" alt="Sentence Transformers" />
+  <img src="https://img.shields.io/badge/Cross--Encoder-6366F1?style=flat-square" alt="Cross-Encoder" />
+  <img src="https://img.shields.io/badge/BM25-4B5563?style=flat-square" alt="BM25" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
 </p>
 </details>
 
@@ -104,43 +107,48 @@
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 </details>
 
 <details open>
-<summary><b>⚙️ Backend, APIs & Databases</b></summary>
+<summary><b>⚙️ Backend & APIs</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
 </p>
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Environments</b></summary>
+<summary><b>🗄️ Databases & Storage</b></summary>
 <br>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+</p>
+</details>
+
+<details open>
+<summary><b>🛠️ Tools & Deployment</b></summary>
+<br>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux%2FWSL-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux/WSL" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 </p>
 </details>
 

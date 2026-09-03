@@ -12,7 +12,7 @@
   <a href="https://github.com/SriPriyanD07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://github.com/SriPriyanD07/portfolio">
+  <a href="https://sripriyand-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://rubric-one.vercel.app">
@@ -58,11 +58,11 @@
 
 - ⚡ **[File_API](https://github.com/SriPriyanD07/File_API)**  
   High-throughput RESTful backend service engineered for secure file handling and storage pipelines.  
-  *Stack: Node.js · Express · REST API*
+  *Stack: Node.js · Express · REST API · Render*
 
-- 🌐 **[Developer Portfolio](https://github.com/SriPriyanD07/portfolio)**  
+- 🌐 **[Developer Portfolio](https://github.com/SriPriyanD07/portfolio)** • [**Live Site ↗**](https://sripriyand-portfolio.vercel.app/)  
   Personal developer website showcasing engineering projects, research, and technical stack.  
-  *Stack: TypeScript · React · Tailwind CSS*
+  *Stack: TypeScript · React · Tailwind CSS · Vercel*
 
 ---
 
@@ -138,6 +138,9 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code" />
 </p>
 </details>
 

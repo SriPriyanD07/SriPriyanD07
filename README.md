@@ -15,9 +15,6 @@
   <a href="https://sripriyand-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://github.com/SriPriyanD07/jurislens">
-    <img src="https://img.shields.io/badge/JurisLens-1E3A8A?style=flat-square&logo=github&logoColor=white" alt="JurisLens" />
-  </a>
   <a href="https://rubric-one.vercel.app">
     <img src="https://img.shields.io/badge/Rubric_App-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Rubric" />
   </a>
@@ -133,6 +130,7 @@ I am a Computer Science student building AI/ML systems, information retrieval pi
 <br>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
 </details>
